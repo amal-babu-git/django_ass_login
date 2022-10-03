@@ -1,0 +1,1 @@
+# django_ass_login
